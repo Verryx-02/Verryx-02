@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Francesco Verrengia
+# Hi, I'm Francesco Verrengia
 
 - Computer Science student at the University of Udine  
 - Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
@@ -18,7 +18,8 @@
 
 - Go programming language (backend development)  
 - mTLS and zero-knowledge security patterns  
-- PostgreSQL, Argon2 hashing, AES encryption, and distributed database models  
+- PostgreSQL
+- Erlang
 - Unity & Game Development (hobby)
 
 ---
