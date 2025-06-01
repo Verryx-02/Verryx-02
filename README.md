@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Francesco Verrengia
 
-<!--
-**Verryx-02/Verryx-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science student at the University of Udine  
+- Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
+- Currently working on: [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **RAM-USB** – Secure backup system with mTLS, client-side encryption and dynamic resource allocation  
+- **3D Horror Game** – Experimental Unity game (paused)  
+- [Other projects](https://github.com/Verryx-02/Personal-Projects) – Various university and personal projects
+
+---
+
+## Currently Learning
+
+- Go programming language (backend development)  
+- mTLS and zero-knowledge security patterns  
+- PostgreSQL, Argon2 hashing, AES encryption, and distributed database models  
+- Unity & Game Development (hobby)
+
+---
+
+## Contact Me
+
+- francescoverrengia62442@gmail.com  
+- [GitHub Profile](https://github.com/Verryx-02)  
+- 🇮🇹 Based in Italy — some university projects are in Italian; English versions coming not so soon
+
+---
+
+> “There’s no patch for human stupidity.”  
+> — Kevin Mitnick
