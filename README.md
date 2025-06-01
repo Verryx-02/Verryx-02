@@ -2,7 +2,7 @@
 
 - Computer Science student at the University of Udine  
 - Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
-- Currently working on: [**RAM-USB**]([https://github.com/Verryx-02/RAM-USB](https://github.com/Riccardo-Gottardi/backup_service)) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
+- Currently working on: [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
 
 ---
 
