@@ -1,9 +1,10 @@
-# Hi, I'm Francesco Verrengia 
+# Hi, I'm Francesco Verrengia 🇮🇹
 
 - Computer Science student at the University of Udine
 - Strong expertise in hardware configuration, and building custom PCs
 - Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
 - Currently working on: [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
+- Some university projects are in Italian; English versions coming not so soon
 
 ---
 
@@ -41,7 +42,7 @@ Check out my personal playlist:
 [![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7BkaNn0NsjboqVW2w4VNK5?si=80eaae1b19614291)
 
 ## 🎮 My Favorite Games
-
+Gaming fuels my creativity and inspires my projects!
 Here are some of the games I love to dive into:
 
 - **Dark Souls 3** 🗡️🔥
@@ -52,8 +53,6 @@ Here are some of the games I love to dive into:
 - **Just Cause 3** 💥🪂
 - **Final Fantasy XV** 👑⚔️
 - **Metro Last Light Redux** ☢️🌆
-<br>
-Gaming fuels my creativity and inspires my projects!
 
 ---
 
@@ -64,7 +63,6 @@ Gaming fuels my creativity and inspires my projects!
 
 - francescoverrengia62442@gmail.com  
 - [GitHub Profile](https://github.com/Verryx-02)  
-- 🇮🇹 Based in Italy — some university projects are in Italian; English versions coming not so soon
 
 ---
 
