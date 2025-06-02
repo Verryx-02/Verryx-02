@@ -38,6 +38,19 @@ Check out my personal playlist:
 
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-Starset%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7BkaNn0NsjboqVW2w4VNK5?si=80eaae1b19614291)
 
+## 🎮 My Favorite Games
+
+Here are some of the games I love to dive into:
+
+- **Dark Souls 3** 🗡️🔥
+- **Elden Ring** 🗡✨
+- **Assassin's Creed Black Flag** 🏴‍☠️⛵
+- **Watch Dogs** 📱💻
+- **Just Cause 3** 💥🪂
+- **Final Fantasy XV** 👑⚔️
+- **Metro Last Light Redux** ☢️🌆
+Gaming fuels my creativity and inspires my projects!
+
 ---
 
 ## GitHub Activity
