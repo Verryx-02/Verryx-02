@@ -16,18 +16,10 @@
 
 ## Currently Learning
 
-- Go programming language (backend development)  
-- mTLS and zero-knowledge security patterns  
-- PostgreSQL
-- Erlang
-- Unity & Game Development (hobby)
-
----
-
-## Tech Stack & Tools
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-1E4F7A?style=for-the-badge&logo=scheme&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-0043CE?style=for-the-badge&logo=tailscale&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
