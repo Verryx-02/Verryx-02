@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Verryx-02)](https://git.io/streak-stats)  
 
