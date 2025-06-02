@@ -49,6 +49,7 @@ Here are some of the games I love to dive into:
 - **Just Cause 3** 💥🪂
 - **Final Fantasy XV** 👑⚔️
 - **Metro Last Light Redux** ☢️🌆
+<br>
 Gaming fuels my creativity and inspires my projects!
 
 ---
