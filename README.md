@@ -37,8 +37,6 @@
 ## 📈 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Verryx-02)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verryx-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Contact Me
 
