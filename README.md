@@ -1,4 +1,4 @@
-# Hi, I'm Francesco Verrengia
+# Hi, I'm Francesco Verrengia 
 
 - Computer Science student at the University of Udine  
 - Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
@@ -8,8 +8,8 @@
 
 ## Projects
 
-- **RAM-USB** – Secure backup system with mTLS, client-side encryption and dynamic resource allocation  
-- **3D Horror Game** – Experimental Unity game (paused)  
+- ☁️🔐 **RAM-USB** – Secure backup system with mTLS, client-side encryption and dynamic resource allocation  
+- 🏨🥩 **3D Horror Game** – Experimental Unity game (paused)  
 - [Other projects](https://github.com/Verryx-02/Personal-Projects) – Various university and personal projects
 
 ---
