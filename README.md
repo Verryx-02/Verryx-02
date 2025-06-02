@@ -32,7 +32,7 @@
 ## 🎧 My Music Taste
 
 I’m a huge fan of high-fidelity audio and immersive soundscapes.
-I mostly listen to indie, cinematic rock, and electronic sounds: anything that tells a story.
+I mostly listen to indie, cinematic rock, pop, blues: anything that tells a story.
 Check out my personal playlist:
 <br>
 
