@@ -24,6 +24,22 @@
 
 ---
 
+## 🧠 Tech Stack & Tools
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-0043CE?style=for-the-badge&logo=tailscale&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Verryx-02)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verryx-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contact Me
 
 - francescoverrengia62442@gmail.com  
