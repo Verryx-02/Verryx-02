@@ -1,6 +1,7 @@
 # Hi, I'm Francesco Verrengia 
 
-- Computer Science student at the University of Udine  
+- Computer Science student at the University of Udine
+- Strong expertise in hardware configuration, and building custom PCs
 - Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
 - Currently working on: [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
 
