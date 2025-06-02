@@ -60,7 +60,8 @@ Here are some of the games I love to dive into:
 
 ## Contact Me
 
-- francescoverrengia62442@gmail.com  
+- francescoverrengia62442@gmail.com
+- 157847@spes.uniud.it
 - [GitHub Profile](https://github.com/Verryx-02)  
 
 ---
