@@ -11,7 +11,7 @@
 
 - ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation  
 - 🏨🥩 **The Gondoliers' Hotel** – Experimental Unity horror game (paused)  
-- [Other projects](https://github.com/Verryx-02/Personal-Projects) – Various university and personal projects
+- 🎓🏫 [**Other projects**](https://github.com/Verryx-02/Personal-Projects) – Various university and personal projects
 
 ---
 ## Tech Stack
