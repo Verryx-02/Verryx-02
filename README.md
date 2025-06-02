@@ -3,13 +3,13 @@
 - Computer Science student at the University of Udine
 - Strong expertise in hardware configuration, and building custom PCs
 - Aspiring cybersecurity specialist passionate about secure systems and distributed architectures  
-- Currently working on: [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
+- Currently working on: [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
 
 ---
 
 ## Projects
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation  
+- ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation  
 - 🏨🥩 **The Gondoliers' Hotel** – Experimental Unity horror game (paused)  
 - 🎓🏫 [**Other projects**](https://github.com/Verryx-02/Personal-Projects) – Academic and personal repositories (mainly in Italian; English versions coming not so soon).
 
