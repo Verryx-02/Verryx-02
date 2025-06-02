@@ -37,7 +37,7 @@ I mostly listen to indie, cinematic rock, pop, blues: anything that tells a stor
 Check out my personal playlist:
 <br>
 
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-Starset%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7BkaNn0NsjboqVW2w4VNK5?si=80eaae1b19614291)
+[![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7BkaNn0NsjboqVW2w4VNK5?si=80eaae1b19614291)
 
 ## 🎮 My Favorite Games
 
