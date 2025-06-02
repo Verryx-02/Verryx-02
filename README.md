@@ -35,10 +35,10 @@
 
 I’m a huge fan of high-fidelity audio and immersive soundscapes.  
 I mostly listen to indie, cinematic rock, pop, blues: anything that tells a story.  
-Check out my personal playlist:
+Check out my personal playlists:
 <br>
 
-[![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7BkaNn0NsjboqVW2w4VNK5?si=80eaae1b19614291)
+[![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/francescoverrengia62442)
 
 ## 🎮 My Favorite Games
 Gaming fuels my creativity and inspires my projects!
