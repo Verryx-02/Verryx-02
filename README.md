@@ -29,6 +29,14 @@
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## 🎧 My Music Taste
+
+I mostly listen to indie, cinematic rock, and electronic sounds: anything that tells a story.
+Check out my personal playlist:
+<br>
+
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-Starset%20Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7BkaNn0NsjboqVW2w4VNK5?si=80eaae1b19614291)
+
 ---
 
 ## GitHub Activity
