@@ -55,7 +55,7 @@ Check out my personal playlists:
 
 [![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/francescoverrengia62442)
 
-## 🎮 My Favorite Games and the Marks They Left on Me
+## 🎮 My Favorite Games
 Gaming fuels my creativity and inspires my projects!
 Here are some of the games I love to dive into:
 
