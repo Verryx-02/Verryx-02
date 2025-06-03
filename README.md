@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Languages ​​that I would like to learn
+### Languages that I would like to learn
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
@@ -46,9 +46,10 @@
 
 
 
-## 🎧 My Music Taste
+## 🎧 My Music & 🎬 Movie Taste
 
-I’m a huge fan of high-fidelity audio and immersive soundscapes.  
+I’m a huge movie enthusiast — I love diving into stories that inspire, challenge, and entertain.  
+I’m also a fan of high-fidelity audio and immersive soundscapes.  
 I mostly listen to indie, cinematic rock, pop, blues: anything that tells a story.  
 Check out my personal playlists:
 <br>
