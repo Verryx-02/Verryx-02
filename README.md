@@ -12,7 +12,7 @@
 - ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)  
-- 🎓🏫 [**Other projects**](https://github.com/Verryx-02/Personal-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
+- 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ---
 ## Tech Stack
