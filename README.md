@@ -62,7 +62,9 @@ I first got into computers because I was determined to play games with my best f
 To save money, I built my own PC from scratch.  
 I had no idea that moment would change my life forever.  
 
-I’m deeply grateful to Blink46, Prodijeek, MoreThanTech, and SaddyTech. They taught me everything I needed to know.
+I’m deeply grateful to the creators who taught me everything I needed to know:
+[**Blink46**](https://www.youtube.com/@Blink46yt), [**Prodijeek**](https://www.youtube.com/@Prodigeek), [**MoreThanTech**](https://www.youtube.com/@MoreThanTech), [**SaddyTech**](https://www.youtube.com/@SaddyTech).
+
 I’m leaving my favorite games below. Who knows? Maybe one of these games will start someone else’s journey too.
 
 
