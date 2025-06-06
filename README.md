@@ -56,9 +56,18 @@ Check out my personal playlists:
 
 [![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/francescoverrengia62442)
 
+
+## How It All Started
+I first got into computers because I was determined to play games with my best friend, no matter what.  
+To save money, I built my own PC from scratch.  
+I had no idea that moment would change my life forever.  
+
+I’m deeply grateful to Blink46, Prodijeek, MoreThanTech, and SaddyTech. They taught me everything I needed to know.
+I’m leaving my favorite games below. Who knows? Maybe one of these games will start someone else’s journey too.
+
+
 ## 🎮 My Favorite Games
 Gaming fuels my creativity and inspires my projects!
-Here are some of the games I love to dive into:
 
 - **Dark Souls 3** 🗡️🔥
 - **Elden Ring** 🗡✨
