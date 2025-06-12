@@ -1,5 +1,5 @@
 # Ciao, sono Francesco Verrengia 🇮🇹
-
+> 🇬🇧 [Read this profile in English](./README.md)
 - Studente di Informatica all’Università di Udine  
 - Appassionato fin da quando avevo 14 anni nella costruzione, riparazione e personalizzazione di PC  
 - Aspirante specialista in cybersecurity, con un forte interesse per i sistemi sicuri e le architetture distribuite  
