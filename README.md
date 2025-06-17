@@ -86,7 +86,6 @@ Gaming fuels my creativity and inspires my projects!
 
 ## Contact Me
 
-- francescoverrengia62442@gmail.com
 - 157847@spes.uniud.it
 
 ---
