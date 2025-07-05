@@ -9,7 +9,8 @@
 
 ## Progetti
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Sistema di backup sicuro con mTLS, cifratura lato client e allocazione dinamica delle risorse  
+- ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Sistema di backup sicuro con mTLS, cifratura lato client e allocazione dinamica delle risorse
+- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Tool completo per scaricare intere playlist Spotify localmente con testi annessi e sincronizzazione incrementale
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Programma per convertire playlist di Spotify in playlist di YouTube Music  
 - 🏨🥩 **The Gondolieri's Hotel** – Videogioco horror sperimentale sviluppato in Unity (attualmente in pausa)  
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Repository dei progetti universitari (principalmente in italiano)
