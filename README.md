@@ -37,6 +37,9 @@
 ### Infrastructure & Tools  
 ![Tailscale](https://img.shields.io/badge/Tailscale-0043CE?style=for-the-badge&logo=tailscale&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-222222?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### Operating Systems I Use  
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
