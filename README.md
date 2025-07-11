@@ -88,9 +88,6 @@ Gaming fuels my creativity and inspires my projects!
 
 ---
 
-## GitHub Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Verryx-02&theme=dark)](https://git.io/streak-stats)
-
 ## Contact Me
 
 - verryx_github.untaken971@passinbox.com
