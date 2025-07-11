@@ -6,7 +6,7 @@
 - Currently working on:
    - [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
    - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
-   - [**Augmented-Fruit-Ninja**](https://github.com/Riccardo-Gottardi/ram-usb) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
+   - [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
 
 ---
 
