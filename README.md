@@ -15,7 +15,7 @@
 - ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
-- [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
+- 🍎🥽[**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ---
