@@ -6,7 +6,6 @@
 - Currently working on:
    - [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
    - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
-   - [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
 
 ---
 
@@ -15,7 +14,8 @@
 - ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation
 - ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
-- 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)  
+- 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
+- [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ---
