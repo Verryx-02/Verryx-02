@@ -16,9 +16,11 @@
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
 - 🍎🥷🏻 [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
+- ⚙️📈 [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) – A performance analysis of three k-th element selection algorithms for the university exam "Algorithms And Data Structures" (with [@NovaActias](https://github.com/NovaActias) and [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ---
+
 ## Tech Stack
 ### Most used languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
