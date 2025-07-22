@@ -3,13 +3,13 @@
 - Studente di Informatica all’Università di Udine  
 - Appassionato fin da quando avevo 14 anni nella costruzione, riparazione e personalizzazione di PC  
 - Aspirante specialista in cybersecurity, con un forte interesse per i sistemi sicuri e le architetture distribuite  
-- Attualmente sto lavorando a: [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – un server di backup multiutente, geo-distribuito e zero-knowledge (con [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
+- Attualmente sto lavorando a: [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – un server di backup multiutente, geo-distribuito e zero-knowledge (con [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
 
 ---
 
 ## Progetti
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Sistema di backup sicuro con mTLS, cifratura lato client e allocazione dinamica delle risorse
+- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Sistema di backup sicuro con mTLS, cifratura lato client e allocazione dinamica delle risorse
 - ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Tool completo per scaricare intere playlist Spotify localmente con testi annessi e sincronizzazione incrementale
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Programma per convertire playlist di Spotify in playlist di YouTube Music  
 - 🏨🥩 **The Gondolieri's Hotel** – Videogioco horror sperimentale sviluppato in Unity (attualmente in pausa)  
