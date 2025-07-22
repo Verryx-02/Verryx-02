@@ -10,14 +10,14 @@
 - Passionate about building, repairing, and customizing PCs since I was 14
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures  
 - Currently working on:
-   - [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
+   - [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
    - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
 
 ---
 
 ## Projects
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Riccardo-Gottardi/ram-usb) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation
+- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation
 - ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
