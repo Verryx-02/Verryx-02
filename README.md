@@ -1,5 +1,11 @@
+<div align="center">
+
 # Hi, I'm Francesco Verrengia 🇮🇹
-> 🇮🇹 [Leggi questo profilo in italiano](./README.it.md)
+🇮🇹 [Leggi questo profilo in italiano](./README.it.md)
+
+</div>
+
+
 - Computer Science student at the University of Udine
 - Passionate about building, repairing, and customizing PCs since I was 14
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures  
