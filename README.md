@@ -25,6 +25,9 @@
 - ⚙️📈 [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) – A performance analysis of three k-th element selection algorithms for the university exam "Algorithms And Data Structures" (with [@NovaActias](https://github.com/NovaActias) and [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
+## Open Source Contributions
+- 📱🔐 [**Signal Android**](https://github.com/signalapp/Signal-Android) – Contributed file organization enhancement: images now save to `Pictures/Signal/` instead of root directory ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277)) under review)
+
 ---
 
 ## Tech Stack
