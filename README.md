@@ -29,7 +29,7 @@
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ## Open Source Contributions
-- 📱🔐 [**Signal Android**](https://github.com/signalapp/Signal-Android) – Contributed file organization enhancement: images now save to `Pictures/Signal/` instead of root directory ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277)) under review)
+- 📱🔐 [**Signal Android**](https://github.com/signalapp/Signal-Android) – Contributed comprehensive file organization enhancement: all media attachments (images, videos, audio, documents) now save to organized Signal subdirectories instead of cluttering root directories ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277)) under review)
 
 ---
 
