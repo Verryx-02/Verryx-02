@@ -30,7 +30,7 @@
 
 ## Open Source Contributions
 - 📱🔐 [**Signal-Android**](https://github.com/signalapp/Signal-Android) – Contributed comprehensive file organization enhancement: all media attachments (images, videos, audio, documents) now save to organized Signal subdirectories instead of cluttering root directories. ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
-Special thanks to [@NovaActias](https://github.com/NovaActias) for notice the issue 
+Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the issue 
 
 ---
 
