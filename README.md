@@ -14,9 +14,6 @@
    - [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
    - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
 
-
-
-
 ---
 
 ## Personal Projects
