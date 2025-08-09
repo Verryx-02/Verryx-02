@@ -13,9 +13,9 @@
 
 ## Progetti Personali
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Server di Backup multi-utente, geo-distribuito, zero-knowledge con mTLS e cifratura lato client
-- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Strumento completo per scaricare playlist Spotify localmente con testi e sincronizzazione incrementale
-- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Strumento che converte una playlist Spotify in una playlist YouTube Music
+- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Server di Backup multi-utente, geo-distribuito, zero-knowledge con mTLS e cifratura lato client (WIP)
+- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Strumento completo per scaricare playlist Spotify localmente con testi e sincronizzazione incrementale (WIP)
+- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Strumento che converte una playlist Spotify in una playlist YouTube Music (WIP)
 - 🏨🥩 **The Gondolieri's Hotel** – Videogioco horror sperimentale in Unity (in pausa)
 
 ## Progetti Universitari
