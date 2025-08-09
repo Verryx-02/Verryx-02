@@ -13,6 +13,10 @@
    - [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
    - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
 
+Excited to start contributing to <img src="https://cdn.simpleicons.org/bitwarden/175DDC" height="16" alt="Bitwarden logo" /> [Bitwarden](https://github.com/bitwarden)
+
+Excited to start contributing to <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="16" alt="Bitwarden logo" /> [Bitwarden](https://github.com/bitwarden)
+
 ---
 
 ## Personal Projects
