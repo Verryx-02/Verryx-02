@@ -9,7 +9,9 @@
 - Computer Science student at the University of Udine
 - Passionate about building, repairing, and customizing PCs since I was 14
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures
-- Excited to start contributing to <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="30" alt="Bitwarden logo" align="middle" /> [Bitwarden](https://github.com/bitwarden)
+- Excited to start contributing to <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="30" alt="Bitwarden logo" align="middle" /> [Bitwarden](https://github.com/bitwarden) , <img src="https://1password.com/img/logo-v1.svg" height="30" alt="1Password logo" align="middle" /> [1Password](https://github.com/1password) and <img src="https://proton.me/favicon.ico" height="30" alt="Proton Drive logo" align="middle" /> [Proton Drive](https://github.com/ProtonDriveApps)
+
+
 - Currently working on:
    - [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
    - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
