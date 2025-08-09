@@ -15,15 +15,15 @@
 
 ## Personal Projects
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – A geo-distributed, zero-knowledge, multi-user backup server with mTLS and client-side encryption (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
-- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – A complete tool for downloading Spotify playlists locally with lyrics and incremental sync
-- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
+- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Geo-distributed, zero-knowledge, multi-user backup server with mTLS and client-side encryption (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)) (WIP)
+- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync (WIP)
+- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Tool that ports a Spotify playlist to a YouTube Music playlist
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
 
 ## University Projects  
 
-- 🍎🥷🏻 [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – A mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
-- ⚙️📈 [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) – A performance analysis of three k-th element selection algorithms for the university exam "Algorithms And Data Structures" (with [@NovaActias](https://github.com/NovaActias) and [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
+- 🍎🥷🏻 [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – Mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
+- ⚙️📈 [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) – Performance analysis of three k-th element selection algorithms for the university exam "Algorithms And Data Structures" (with [@NovaActias](https://github.com/NovaActias) and [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ## Open Source Contributions
