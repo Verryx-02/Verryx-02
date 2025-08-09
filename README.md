@@ -11,23 +11,18 @@
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures
 - Dreaming of contributing to <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="30" alt="Bitwarden logo" align="middle" /> [Bitwarden](https://github.com/bitwarden), <img src="https://1password.com/img/logo-v1.svg" height="30" alt="1Password logo" align="middle" /> [1Password](https://github.com/1password) and <img src="https://proton.me/favicon.ico" height="30" alt="Proton Drive logo" align="middle" /> [Proton Drive](https://github.com/ProtonDriveApps)
 
-
-- Currently working on:
-   - [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – a geo-distributed, zero-knowledge, multi-user backup server (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
-   - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – a complete tool for downloading Spotify playlists locally with synchronized lyrics.
-
 ---
 
 ## Personal Projects
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Secure backup system with mTLS, client-side encryption and dynamic resource allocation
-- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync
+- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – A geo-distributed, zero-knowledge, multi-user backup server with mTLS and client-side encryption (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi))
+- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – A complete tool for downloading Spotify playlists locally with lyrics and incremental sync
 - 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – A program that ports a Spotify playlist to a YouTube Music playlist
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
 
 ## University Projects  
 
-- 🍎🥷🏻 [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – a mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
+- 🍎🥷🏻 [**Augmented-Fruit-Ninja**](https://github.com/NovaActias/Augmented-Fruit-Ninja) – A mini video game for the university exam "Augmented Reality" (with [@NovaActias](https://github.com/NovaActias))
 - ⚙️📈 [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) – A performance analysis of three k-th element selection algorithms for the university exam "Algorithms And Data Structures" (with [@NovaActias](https://github.com/NovaActias) and [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
