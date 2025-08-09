@@ -11,18 +11,11 @@
 - Aspirante specialista in cybersecurity e intelligenza artificiale con una passione per i sistemi sicuri e le architetture distribuite
 - Sogno di contribuire a <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="30" alt="Bitwarden logo" align="middle" /> [Bitwarden](https://github.com/bitwarden), <img src="https://1password.com/img/logo-v1.svg" height="30" alt="1Password logo" align="middle" /> [1Password](https://github.com/1password) e <img src="https://proton.me/favicon.ico" height="30" alt="Proton Drive logo" align="middle" /> [Proton Drive](https://github.com/ProtonDriveApps)
 
-
-- Attualmente sto lavorando a:
-   - [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – un server di backup geo-distribuito, zero-knowledge e multiutente (con [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)).
-   - [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – uno strumento completo per scaricare playlist Spotify localmente con testi sincronizzati.
-
----
-
 ## Progetti Personali
 
-- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Sistema di backup sicuro con mTLS, cifratura lato client e allocazione dinamica delle risorse
+- ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Server di Backup multi-utente, geo-distribuito, zero-knowledge con mTLS e cifratura lato client
 - ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Strumento completo per scaricare playlist Spotify localmente con testi e sincronizzazione incrementale
-- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Un programma che converte una playlist Spotify in una playlist YouTube Music
+- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Strumento che converte una playlist Spotify in una playlist YouTube Music
 - 🏨🥩 **The Gondolieri's Hotel** – Videogioco horror sperimentale in Unity (in pausa)
 
 ## Progetti Universitari
