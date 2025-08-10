@@ -9,7 +9,7 @@
 - Computer Science student at the University of Udine
 - Passionate about building, repairing, and customizing PCs since I was 14
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures
-- Dreaming of contributing to [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="30" alt="Signal logo" align="middle" />](https://github.com/signalapp), [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="30" alt="Bitwarden logo" align="middle" />](https://github.com/bitwarden), [<img src="https://1password.com/img/logo-v1.svg" height="30" alt="1Password logo" align="middle" />](https://github.com/1password), and [<img src="https://proton.me/favicon.ico" height="30" alt="Proton Drive logo" align="middle" />](https://github.com/ProtonDriveApps)
+- Dreaming of contributing to [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="30" alt="Signal logo" align="middle" />](https://github.com/signalapp), [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="30" alt="Bitwarden logo" align="middle" />](https://github.com/bitwarden) and [<img src="https://1password.com/img/logo-v1.svg" height="30" alt="1Password logo" align="middle" />](https://github.com/1password)
 
 ---
 
