@@ -71,21 +71,6 @@ Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 
-
-## 🎧 My musical and 🎬 cinematic tastes
-I'm a huge cinema enthusiast. I love stories that combine entertainment, brilliant ideas, and emotional depth. My taste ranges from quality animation to engaging adventures—I seek films that know how to move you without being too demanding. 
-
-My musical playlist is extremely eclectic: I span from modern alternative rock (STARSET, Imagine Dragons, Twenty One Pilots) to melodic EDM (Avicii, The Chainsmokers), from indie singer-songwriters (Andrew Belle, Noah Kahan) to contemporary rap, not forgetting Italian classics from Fabrizio De André to modern rappers.  
-
-I also love video game and film soundtracks that create immersive cinematic atmospheres.
-In essence: everything that knows how to tell a story with the right balance between nostalgia, modernity, and emotion.  
-Check out my playlists:
-
-<br>
-
-[![Spotify](https://img.shields.io/badge/Spotify-🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/francescoverrengia62442)
-
-
 ## How It All Started
 I first got into computers because I was determined to play games with my best friend, no matter what.  
 To save money, I built my own PC from scratch.  
