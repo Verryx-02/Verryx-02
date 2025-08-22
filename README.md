@@ -13,7 +13,7 @@
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="40" alt="Bitwarden logo" align="middle" />](https://github.com/bitwarden)
   - &nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="40" alt="Signal logo" align="middle" />](https://github.com/signalapp)
   - &nbsp;&nbsp;[<img src="https://1password.com/img/logo-v1.svg" height="40" alt="1Password logo" align="middle" />](https://github.com/1password)
-
+  - &nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-lumo.svg" height="40" alt="Proton Lumo logo" align="middle" />](https://github.com/ProtonLumo)
 
 
 ---
