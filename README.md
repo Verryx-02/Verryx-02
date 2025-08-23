@@ -32,7 +32,10 @@
 - 🎓🏫 [**University-Projects**](https://github.com/Verryx-02/University-Projects) – Academic repositories (mainly in Italian; English versions coming not so soon).
 
 ## Open Source Contributions
-- 📱🔐 [**Signal-Android**](https://github.com/signalapp/Signal-Android) – Contributed comprehensive file organization enhancement: all media attachments (images, videos, audio, documents) now save to organized Signal subdirectories instead of cluttering root directories. ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
+
+- [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-lumo.svg" height="30" alt="Proton Lumo logo" align="middle" />](https://github.com/ProtonLumo)[**Proton Lumo Android**](https://github.com/ProtonLumo/android-lumo) – Improved file upload experience by preventing users from selecting unsupported files (like JPEG images), which previously caused an error messages. Now only compatible file types are shown in the file picker. ([PR #4](https://github.com/ProtonLumo/android-lumo/pull/4) under review)
+
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="30" alt="Signal logo" align="middle" />](https://github.com/signalapp) [**Signal-Android**](https://github.com/signalapp/Signal-Android) – Contributed comprehensive file organization enhancement: all media attachments (images, videos, audio, documents) now save to organized Signal subdirectories instead of cluttering root directories. ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
 Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the issue 
 
 ---
