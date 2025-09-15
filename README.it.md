@@ -49,14 +49,14 @@ Un ringraziamento speciale a [@NovaActias](https://github.com/NovaActias) per av
 
 
 ## Come è iniziato tutto
-Mi sono avvicinato ai computer perché ero determinato a giocare con il mio migliore amico, qualunque cosa accadesse.  
-Per risparmiare denaro, ho costruito il mio PC da zero.  
+Mi sono avvicinato ai computer perché ero determinato a giocare con la mia migliore amica, ad ogni costo.  
+Per risparmiare un pò di soldi, ho costruito il mio PC da zero.  
 Non sapevo che quel momento mi avrebbe cambiato la vita per sempre.  
 
 Sono profondamente grato ai creator che mi hanno insegnato tutto quello che dovevo sapere:
 [**Blink46**](https://www.youtube.com/@Blink46yt), [**Prodijeek**](https://www.youtube.com/@Prodigeek), [**MoreThanTech**](https://www.youtube.com/@MoreThanTech), [**SaddyTech**](https://www.youtube.com/@SaddyTech).
 
-Lascio qui sotto i miei giochi preferiti. Chissà? Forse uno di questi giochi darà inizio anche al percorso di qualcun altro.
+Lascio qui sotto i miei giochi preferiti. Chissà? Forse uno di questi darà inizio anche al percorso di qualcun altro.
 
 
 ## 🎮 I miei giochi preferiti
