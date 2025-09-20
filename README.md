@@ -63,7 +63,7 @@ I’m deeply grateful to the creators who taught me everything I needed to know:
 I’m leaving my favorite games below. Who knows? Maybe one of these games will start someone else’s journey too.
 
 
-## 🎮 My Favorite Games
+## My Favorite Games
 Gaming fuels my creativity and inspires my projects!
 
 - **Dark Souls 3** 🗡️🔥
