@@ -24,8 +24,7 @@ Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the 
 ## Personal Projects
 
 - ☁️🔐 [**RAM-USB**](https://github.com/Verryx-02/RAM-USB) – Geo-distributed, zero-knowledge, multi-user backup server with mTLS and client-side encryption (with [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi)) (WIP)
-- ⬇️🎶 [**Playlist-Downloader**](https://github.com/Verryx-02/playlist-downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync (WIP)
-- 🎧🎶 [**PlaylistPorter**](https://github.com/Verryx-02/PlaylistPorter) – Tool that ports a Spotify playlist to a YouTube Music playlist
+- ⬇️🎶 [**spot_downloader**](https://github.com/Verryx-02/spot_downloader) – Complete tool for downloading Spotify playlists locally with lyrics and incremental sync (WIP)
 - 🎓📚 [**Scuola di Sopravvivenza per Studenti di Informatica**](https://github.com/Verryx-02/Scuola-di-sopravvivenza-per-studenti-di-Informatica) – Comprehensive survival guide for Computer Science students at University of Udine with practical tips, exam strategies, and everything you need to succeed
 - 🏨🥩 **The Gondolieri's Hotel** – Experimental Unity horror game (paused)
 
