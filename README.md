@@ -18,8 +18,9 @@
 
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-lumo.svg" height="30" />](https://github.com/ProtonLumo) **Proton Lumo Android** – Improved file picker experience ([PR #4](https://github.com/ProtonLumo/android-lumo/pull/4))  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="30" />](https://github.com/signalapp) **Signal-Android** – Organized media attachments into appropriate subdirectories ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
+[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-lumo.svg" height="35" alt="Proton Lumo logo" align="middle" />](https://github.com/ProtonLumo) [**Proton Lumo Android**](https://github.com/ProtonLumo/android-lumo) – Improved file picker experience ([PR #4](https://github.com/ProtonLumo/android-lumo/pull/4))  
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="35" alt="Signal logo" align="middle" />](https://github.com/signalapp) [**Signal-Android**](https://github.com/signalapp/Signal-Android) – Organized media attachments into appropriate subdirectories ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
 Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the issue  
 
 </div>
