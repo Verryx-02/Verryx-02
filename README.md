@@ -70,11 +70,8 @@ I had no idea that moment would change my life forever.
 I’m deeply grateful to the creators who taught me everything I needed to know:
 [**Blink46**](https://www.youtube.com/@Blink46yt), [**Prodijeek**](https://www.youtube.com/@Prodigeek), [**MoreThanTech**](https://www.youtube.com/@MoreThanTech), [**SaddyTech**](https://www.youtube.com/@SaddyTech).
 
-I’m leaving my favorite games below. Who knows? Maybe one of these games will start someone else’s journey too.
-
-
 ## My Favorite Games
-Gaming fuels my creativity and inspires my projects!
+I’m leaving my favorite games below. Who knows? Maybe one of these games will start someone else’s journey too.
 
 - **Dark Souls 3** 🗡️🔥
 - **Elden Ring** 🗡✨
