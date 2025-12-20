@@ -5,6 +5,8 @@
 
 </div>
 
+---
+
 ## About me 👀
 
 - Computer Science student at the University of Udine
@@ -58,10 +60,7 @@ Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the 
 | **Infrastructure & Tools** | ![Tailscale](https://img.shields.io/badge/Tailscale-0043CE?style=for-the-badge&logo=tailscale&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-da7756?style=for-the-badge&logo=anthropic&logoColor=white) |
 | **Operating Systems I use** | ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) |
 
-
-
-
-
+---
 
 ## How It All Started (❤️_🖤)
 I first got into computers because I was determined to play games with my best friend, no matter what.  
@@ -93,7 +92,6 @@ Gaming fuels my creativity and inspires my projects!
 - verryx_github.untaken971@passinbox.com
 
 ---
-
 
 <a href="https://ko-fi.com/verryx02">
   <img src="support_me_on_kofi_beige.png" alt="Support me on Ko-fi" width="170">
