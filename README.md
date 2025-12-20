@@ -94,7 +94,6 @@ Gaming fuels my creativity and inspires my projects!
 
 ---
 
-## Buy me a coffee ☕
 
 <a href="https://ko-fi.com/verryx02">
   <img src="support_me_on_kofi_beige.png" alt="Support me on Ko-fi" width="170">
