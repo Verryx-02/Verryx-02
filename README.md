@@ -46,7 +46,7 @@ Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the 
 |---------|------------|---------------|
 | 🍎🥷🏻 [Augmented-Fruit-Ninja](https://github.com/NovaActias/Augmented-Fruit-Ninja) | Mini AR video game for the "Augmented Reality" exam | [@NovaActias](https://github.com/NovaActias) |
 | ⚙️📈 [ComparativeAnalysis-SelectionAlgorithms](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) | Performance analysis of k-th element selection algorithms | [@NovaActias](https://github.com/NovaActias), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi) |
-| 🎓🏫 [University-Library-db](https://github.com/Verryx-02/University-Library-db) | 🇮🇹 Design and implementation of a relational database for a university library system | [@NovaActias](https://github.com/NovaActias), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi), [@Alessandro Mattei](https://github.com/AlessandroMattei) |
+| 🎓🏫 [University-Library-db](https://github.com/Riccardo-Gottardi/university-library-db) | 🇮🇹 Design and implementation of a relational database for a university library system | [@NovaActias](https://github.com/NovaActias), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi), [@Alessandro Mattei](https://github.com/AlessandroMattei) |
 
 ---
 
