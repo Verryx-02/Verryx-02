@@ -16,7 +16,7 @@
 
 ---
 
-## Best open Source Contributions 🌍✨
+## Open Source Contributions 🌍✨
 
 <div align="center">
 
