@@ -10,7 +10,7 @@
 ## About me 👀
 
 - Computer Science student at the University of Udine
-- Passionate about building, repairing, and customizing PCs since I was 14
+- Passionate about building, repairing, and customizing PCs since I was 16
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures
 - Dreaming of contributing to: [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Bitwarden_logo.svg" height="40" alt="Bitwarden logo" align="middle" />](https://github.com/bitwarden) and &nbsp;&nbsp;[<img src="https://1password.com/img/logo-v1.svg" height="40" alt="1Password logo" align="middle" />](https://github.com/1password)
 
