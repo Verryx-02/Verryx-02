@@ -36,7 +36,6 @@ Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the 
 | ☁️🔐 [RAM-USB](https://github.com/Verryx-02/RAM-USB) | Geo-distributed, zero-knowledge, multi-user backup server with mTLS and client-side encryption (WIP) |
 | ⬇️🎶 [spot_downloader](https://github.com/Verryx-02/spot_downloader) | Download Spotify playlists locally with lyrics & incremental sync (version 1.0.1 stable) |
 | 🎓📚 [Scuola di Sopravvivenza](https://github.com/Verryx-02/Scuola-di-sopravvivenza-per-studenti-di-Informatica) | 🇮🇹 Survival guide for Computer Science students at University of Udine |
-| 🏨🥩 The Gondolieri's Hotel | Experimental Unity horror game (not even started) |
 
 ---
 
