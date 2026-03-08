@@ -25,6 +25,10 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="35" alt="Signal logo" align="middle" />](https://github.com/signalapp) [**Signal-Android**](https://github.com/signalapp/Signal-Android) – Organized media attachments into appropriate subdirectories ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
 Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the issue  
 
+
+[<img src="https://cdn.simpleicons.org/kiwix" height="35" alt="Kiwix logo" align="middle" />](https://github.com/kiwix/kiwix-apple) [**Kiwix macOS**](https://github.com/kiwix/kiwix-apple) – Added support for downloading large ZIM files directly to external drives, with resume and pause support ([PR #1494](https://github.com/kiwix/kiwix-apple/pull/1494))
+
+
 </div>
 
 ---
