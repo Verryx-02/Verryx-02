@@ -26,7 +26,7 @@
 Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the issue  
 
 
-[<img src="https://raw.githubusercontent.com/Verryx-02/Verryx-02/main/kiwix_Icon.svg" height="35" alt="Kiwix logo" align="middle" />](https://github.com/kiwix/kiwix-apple) [Kiwix-apple](https://github.com/kiwix/kiwix-apple) Added support for downloading ZIM files directly to external drives on macOS ([Issue #627](https://github.com/kiwix/kiwix-apple/issues/627), [PR #1494](https://github.com/kiwix/kiwix-apple/pull/1494))
+[<img src="https://raw.githubusercontent.com/Verryx-02/Verryx-02/main/kiwix_Icon.svg" height="35" alt="Kiwix logo" align="middle" />](https://github.com/kiwix/kiwix-apple) [Kiwix-apple](https://github.com/kiwix/kiwix-apple) – Added support for downloading ZIM files directly to external drives on macOS ([Issue #627](https://github.com/kiwix/kiwix-apple/issues/627), [PR #1494](https://github.com/kiwix/kiwix-apple/pull/1494))
 
 </div>
 
