@@ -9,8 +9,8 @@
 
 ## About me 👀
 
-- Bachelor's degree in Computer Science at the University of Udine.
-- M.Sc student at the University of Klagenfurt.
+- Bachelor's degree in Computer Science at the University of Udine
+- M.Sc student at the University of Klagenfurt
 - Passionate about building, repairing, and customizing PCs since I was 16
 - Aspiring cybersecurity and artificial intelligence specialist passionate about secure systems and distributed architectures
 - Deeply passionate about secure backup systems and authentication methods
