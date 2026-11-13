@@ -25,7 +25,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proton-lumo.svg" height="35" alt="Proton Lumo logo" align="middle" />](https://github.com/ProtonLumo) [**Proton Lumo Android**](https://github.com/ProtonLumo/android-lumo)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg" height="35" alt="Signal logo" align="middle" />](https://github.com/signalapp) [**Signal-Android**](https://github.com/signalapp/Signal-Android) – Organized media attachments into appropriate subdirectories ([PR #14277](https://github.com/signalapp/Signal-Android/pull/14277))  
-Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the issue  
+Special thanks to [@maze-srs](https://github.com/maze-srs) for noticing the issue  
 
 </div>
 
@@ -47,9 +47,9 @@ Special thanks to [@NovaActias](https://github.com/NovaActias) for noticing the 
 
 | Project | Description | Collaborators |
 |---------|------------|---------------|
-| 🍎🥷🏻 [Augmented-Fruit-Ninja](https://github.com/NovaActias/Augmented-Fruit-Ninja) | Mini AR video game for the "Augmented Reality" exam | [@NovaActias](https://github.com/NovaActias) |
-| ⚙️📈 [ComparativeAnalysis-SelectionAlgorithms](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) | Performance analysis of k-th element selection algorithms | [@NovaActias](https://github.com/NovaActias), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi) |
-| 🎓🏫 [University-Library-db](https://github.com/Riccardo-Gottardi/university-library-db) | 🇮🇹 Design and implementation of a relational database for a university library system | [@NovaActias](https://github.com/NovaActias), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi), [@Alessandro Mattei](https://github.com/AlessandroMattei) |
+| 🍎🥷🏻 [Augmented-Fruit-Ninja](https://github.com/NovaActias/Augmented-Fruit-Ninja) | Mini AR video game for the "Augmented Reality" exam | [@maze-srs](https://github.com/maze-srs) |
+| ⚙️📈 [ComparativeAnalysis-SelectionAlgorithms](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) | Performance analysis of k-th element selection algorithms | [@maze-srs](https://github.com/maze-srs), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi) |
+| 🎓🏫 [University-Library-db](https://github.com/Riccardo-Gottardi/university-library-db) | 🇮🇹 Design and implementation of a relational database for a university library system | [@maze-srs](https://github.com/maze-srs), [@Riccardo-Gottardi](https://github.com/Riccardo-Gottardi), [@Alessandro Mattei](https://github.com/AlessandroMattei) |
 
 ---
 
