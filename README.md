@@ -3,6 +3,9 @@
 # Hi, I'm Francesco Verrengia 🇮🇹
 🇮🇹 [Leggi questo profilo in italiano](./README.it.md)
 
+📝 **[Read my blog](https://verryx-02.github.io)**
+
+
 </div>
 
 ---
